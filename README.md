@@ -9,7 +9,7 @@ Lung adenocarcinoma (LUAD) is a morphologically heterogeneous disease, character
 We propose a generalizable machine learning pipeline capable of classifying lung tissue into one of the five patterns or as non-tumor. The proposed pipleline's strength lies in a novel compact _Cell Organization Maps (cellOMaps)_ representation that captures the cellular spatial patterns from Hematoxylin and Eosin (H\&E) whole slide images (WSIs).
 
 
-
+![Model](Model.png)
 
 
 **Running the code:**
