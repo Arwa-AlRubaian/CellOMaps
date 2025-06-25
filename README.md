@@ -1,6 +1,6 @@
 # **_CellOMaps_: A Compact Representation for Robust Classification of Lung Adenocarcinoma Growth Patterns**
 
-This repositry contains the code for the following manuscript: 
+This repositry contains the code for the following manuscript: https://www.sciencedirect.com/science/article/pii/S0010482525004780
 
 
 ## **Introduction**
